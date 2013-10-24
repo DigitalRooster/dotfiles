@@ -6,7 +6,7 @@ Various configuration files.
 Firefox CSS
 ===========
 
-Firefox theme to compliment Ramvmunken's excellent [visual style](http://ravmunken.deviantart.com/art/Deshou-VS-394841179)
+Firefox theme to compliment Ramvmunken's excellent [visual style.](http://ravmunken.deviantart.com/art/Deshou-VS-394841179)
 Based off of [FullFlat](https://addons.mozilla.org/en-US/firefox/addon/full-flat/) (Needed for it to work)
 Screenshot [here.](https://raw.github.com/DigitalRooster/assets/master/Firefox%20Screenshot.png)
 
