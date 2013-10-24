@@ -6,7 +6,7 @@ Various configuration files.
 Firefox CSS
 ===========
 
-Based off of [FullFlat](https://addons.mozilla.org/en-US/firefox/addon/full-flat/)
+Based off of [FullFlat](https://addons.mozilla.org/en-US/firefox/addon/full-flat/) (Needed for it to work)
 Screenshot [here.](https://raw.github.com/DigitalRooster/assets/master/Firefox%20Screenshot.png)
 
 Winsplit Revolution Settings Export
