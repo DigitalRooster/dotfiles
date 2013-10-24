@@ -1,7 +1,7 @@
 dotfiles
 ========
 
-Various configuration files.
+A dotfiles repo without any dotfiles. - Various configuration files.
 
 Firefox CSS
 ===========
