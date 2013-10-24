@@ -1,0 +1,64 @@
+@namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul");
+
+/* General style */
+.urlbar-history-dropmarker,
+#star-button,  
+#page-proxy-favicon,
+.scrollbutton-up,
+.scrollbutton-down,
+.tab-close-button,
+.tab-icon-image,
+#go-button {
+    display: none !important;
+}
+
+#content browser {
+ margin-right: -20px !important;
+ overflow-y: scroll;
+ overflow-x: hidden;
+}
+
+#identity-box {
+display: none !important;
+}
+
+#nav-bar {
+
+}
+
+#urlbar {
+height: 20px !important;
+border: none !important;
+}
+
+#tabbrowser-tabs {
+text-align: center !important;
+
+}
+
+.tabbrowser-tab {
+border: none !important;
+}
+
+.tabbrowser-tab:hover {
+    border-bottom: 1px solid #D6BDC0 !important;
+    transition: all 0.1s ease 0s !important;
+    margin-bottom: 0px !important;
+}
+
+.tabbrowser-tab[selected=true], .tabbrowser-tab[selected=true]:hover {
+
+}
+
+.tabbrowser-tab:first-child {
+    margin-left: 2px !important;
+}
+
+.tabbrowser-tab:last-child {
+    margin-right: -2px !important;
+}
+
+
+
+
+
