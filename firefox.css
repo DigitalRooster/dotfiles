@@ -12,18 +12,30 @@
     display: none !important;
 }
 
-#content browser {
- margin-right: -20px !important;
- overflow-y: scroll;
- overflow-x: hidden;
+thumb, scrollbarbutton {
+  -moz-border-top-colors: ThreeDLightShadow ThreeDHighlight;
+  -moz-border-right-colors: ThreeDDarkShadow ThreeDShadow;
+  -moz-border-bottom-colors: ThreeDDarkShadow ThreeDShadow;
+  -moz-border-left-colors: ThreeDLightShadow ThreeDHighlight;
+  background-color: -moz-Dialog;
 }
 
 #identity-box {
 display: none !important;
 }
 
+* {
+font-family: haxrcorpttf !important;
+font-size: 16px !important;
+font-weight: normal !important;
+}
+
 #nav-bar {
 
+}
+
+#downloads-button, #downloads-indicator-progress-area {
+width: 20px !important;
 }
 
 #urlbar {
@@ -55,7 +67,8 @@ border: none !important;
 }
 
 .tabbrowser-tab[selected=true], .tabbrowser-tab[selected=true]:hover {
-
+color: #D6BDC0 !important;
+font-size: 16px !important;
 }
 
 .tabbrowser-tab:first-child {
