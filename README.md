@@ -9,7 +9,7 @@ Firefox CSS
 Firefox theme to compliment tsnsnd's [pix_](http://twnsnd.deviantart.com/art/pix-light-visual-style-300496433) Visual Style.
 Uses hdni's brilliant [Phosphene](https://github.com/hdni/Phosphene) CSS as a base for the icons. And therefore needs [FX Chrome](https://addons.mozilla.org/en-US/firefox/addon/fxchrome/) to function properly.
 
-Screenshot [here.](http://tekoneko.co.uk/Screenshots/2013_12_30_13_27_35_Greenshot.png)
+Screenshot [here.](http://tekoneko.co.uk/Screenshots/2014_01_04_04_53_08_Program_Manager.png)
 
 Firefox CSS (Old)
 =================
